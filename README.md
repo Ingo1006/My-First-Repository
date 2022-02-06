@@ -1,2 +1,3 @@
 # My-First-Repository
-This is the first repository of my Github account, used for little tests.
+
+你好！今天我开始学习Git,并了解Github！
